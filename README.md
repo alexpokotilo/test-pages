@@ -19,7 +19,7 @@ npm install
 ```
 
 ### Start web server for development
-From the root of the checkout do `cd test` then run `node server.js` and finally navigate your browser to `https://localhost:8080`.
+From the root of the checkout do `cd web_server` then run `node server.js` and finally navigate your browser to `https://localhost:8080`.
 
 #### Linting
 Runs grunt which currently only does linting.
